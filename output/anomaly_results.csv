@@ -1,0 +1,4 @@
+ip_address,request_count,anomaly_flag,traffic_type
+192.168.1.10,4,-1,Suspicious
+45.33.32.156,2,1,Normal
+8.8.8.8,1,1,Normal
